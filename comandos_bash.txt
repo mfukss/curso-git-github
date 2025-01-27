@@ -3,3 +3,4 @@ cd -> move entre diretórios
 pwd -> mostra diretórios de trabalho
 cat -> verifica conteúdo do arquivo
 rm -> remove arquivos e pasta
+rm -rf -> remove arquivos e pasta recursivo e force
