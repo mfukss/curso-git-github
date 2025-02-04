@@ -4,7 +4,7 @@ Um curso para aprender a trabalhar com versionamento de código e repositórios 
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
-
+xptoxxxx
 
 ## Fluxo de trabalho Git local
 
